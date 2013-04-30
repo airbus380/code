@@ -1,0 +1,4 @@
+Driver={SQL Server};Server=myServerAddress;Database=myDataBase;Uid=myUsername;Pwd=myPassword;
+sdsds
+fdsfdsfd
+fsfdsfds
